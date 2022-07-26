@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    background: #eee;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+}
+
+canvas {
+    position: relative;
+    display: block;
+    border: 1px solid #000;
+}
